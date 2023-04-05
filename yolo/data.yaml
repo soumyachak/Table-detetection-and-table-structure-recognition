@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/TABLE DATA SET/images/train
+val: /content/drive/MyDrive/TABLE DATA SET/images/train
+test: /content/drive/MyDrive/TABLE DATA SET/images/test
+
+nc: 1
+names: ['table']
